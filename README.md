@@ -106,3 +106,9 @@ func main() {
 	<-c2
 }
 ```
+[connections]
+nodes=[arch1.test.open.tectum.io:50000, arch2.test.open.tectum.io:50001,arch3.test.open.tectum.io:50002,arch4.test.open.tectum.io:50003,arch5.test.open.tectum.io:50004,arch6.test.open.tectum.io:50005]
+jsonplaceholder.typicode.comhttps://www.binancewv.co/en/support/announcement/binance-updates-the-fdusd-zero-trading-fee-promotion-for-regular-and-vip-1-users-3d8514bbc817423eba52fb23483bcbed?utm_source=new_share&amp;ref=CPA_001XLYJ3F8<img width="864" height="443" alt="1000172242" src="https://github.com/user-attachments/assets/26fd6f51-7568-4379-87b0-bddbe1fe27c6" />
+<img width="1253" height="832" alt="1000172602" src="https://github.com/user-attachments/assets/50ce78d7-deae-4b26-9ff9-a3ef61d081c3" />
+![1000176598](https://github.com/user-attachments/assets/35749710-bd5a-417f-893f-04ec3f7b0df7)
+![1000187601](https://github.com/user-attachments/assets/f8ce7261-4c10-435f-926b-6d0e64f8422c)
